@@ -31,7 +31,7 @@ REQUIRED_CHANNELS = ['@S4_official1', '@YOURxDEMONxYT', '@S4_OFFICIAL_GRP'] # Ex
 # --- Attack Settings ---
 max_daily_attacks = 100 # Per user
 COOLDOWN_TIME = 2 # 240 seconds cooldown per user AND for the group
-ATTACK_SCRIPT_PATH = "./night" # Path to your attack script (ensure it's executable: chmod +x night)
+ATTACK_SCRIPT_PATH = "./bgmi" # Path to your attack script (ensure it's executable: chmod +x night)
 MAX_ATTACK_DURATION = 180 # Maximum allowed duration for a single attack in seconds
 MIN_ATTACK_DURATION = 1   # Minimum allowed duration
 
